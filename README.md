@@ -39,7 +39,9 @@ A few featured of this comic application:
 * Very few 3rd party codes, libraries are used (Therefore No lib folder created) 
 
 <p align="center">
-  <img src = "https://i.imgur.com/tEF89UF.png" width=170>
+  <img src="https://i.imgur.com/tEF89UF.png" width="170" />&nbsp;&nbsp;&nbsp;
+  <img src="https://i.imgur.com/NbWillx.png" width="170" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://i.imgur.com/g2QAhtb.png" width="170" />&nbsp;&nbsp;&nbsp;
 </p>
 
 ## Setup Process
@@ -52,11 +54,3 @@ A few featured of this comic application:
 
 ## Add all in once.
 You can add amount on all at once.
-
-<p align="center">
-  <img src = "https://i.imgur.com/4xdlzdj.png" width=390>
-</p>
-
-## Important Notes
-- After email validation, it takes 8-9 minutes to start arriving the mail at your email address so please keep patience.
-- After that, every email will arrive at 5 mins interval.
