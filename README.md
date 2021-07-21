@@ -1,24 +1,24 @@
 <h1 align="center"> Friends Money Manager </h1> <br>
 <p align="center">
-  <a href="https://www.comics.igsavers.com/assets/img/icon.jpg">
-    <img alt="Comics" title="XKCD Comics" src="https://raw.githubusercontent.com/nalindev/money-manager/main/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" width="180">
+  <a href="https://nalindev.github.io/saveo/">
+    <img alt="Comics" title="XKCD Comics" src="https://raw.githubusercontent.com/nalindev/money-manager/main/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" width="120">
   </a>
 </p>
 
 <p align="center">
-  Receive random comics updates on your mail every 5 minutes to get updated with latest comics.<br>
-  <a href="https://www.comics.igsavers.com/"><strong>Click To Visit On Demo Page</strong> </a>
+  Receive all your due or paid information in a single app. No need to waste time in calculating the total amount you need to pay to your friends.<br>
+  <a href="https://nalindev.github.io/saveo/"><strong>Click To Visit On Demo Page</strong> </a>
 </p>
 
 ## Introduction 
 
-Register on XKCD comics to get comic updates every 5 minutes. you can unsubscribe from our mail any time you want. Our script will also send you an image attachment of every comic.
+This android and ios app mainly developed for college students in order to save there time.
 
-> **Important Note** :  No 3rd party codes, libraries are used in this project. Hence, this code is lightweight and easy to set up and understand. I try to write my code as clean as possible. Also, it doesn't have any security issues.
+> **Important Note** :  NVery few 3rd party codes, libraries are used in this project. Hence, this code is lightweight and easy to set up and understand. I try to write my code as clean as possible. Also, it doesn't have any security issues.
 
-> **This Project Follows PHP coding standards**
+> **This Project Follows Flutter coding standards**
 
-**Available On Web.**
+**Available On Android & IOS.**
 
 <p align="center">
   <img src = "https://i.imgur.com/gEaXBnE.png" width=390>
