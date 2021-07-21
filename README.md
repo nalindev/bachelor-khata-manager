@@ -21,9 +21,9 @@ This android and ios app mainly developed for college students in order to save 
 **Available On Android & IOS.**
 
 <p align="center">
-  <img src="https://i.imgur.com/TpMxeRB.png" width="150" />
-  <img src="https://i.imgur.com/TpMxeRB.png" width="150" /> 
-  <img src="https://i.imgur.com/TpMxeRB.png" width="150" />
+  <img src="https://i.imgur.com/TpMxeRB.png" width="170" />
+  <img src="https://i.imgur.com/tjhk6xf.png" width="170" /> 
+  <img src="https://i.imgur.com/TpMxeRB.png" width="170" />
 </p>
 
 
