@@ -22,7 +22,7 @@ This android and ios app mainly developed for college students in order to save 
 
 <div class="row" align="center">
   <div class="column">
-    <img src="https://i.imgur.com/TpMxeRB.png" alt="Snow" style="width:250px">
+    <img src="https://i.imgur.com/TpMxeRB.png" alt="Snow" style="width:50px">
   </div>
   <div class="column">
     <img src="img_forest.jpg" alt="Forest" style="width:100%">
