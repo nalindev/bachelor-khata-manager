@@ -31,38 +31,27 @@ This android and ios app mainly developed for college students in order to save 
 
 A few featured of this comic application:
 
-* Email verification before registering
-* send comics updates on every 5 mins
-* unsubscribe from mail anytime
+* Works on slow connection
+* update due amount automatically
+* available on IOS & Android
 * Easy to use UI
 * No security vulnaribilities.
-* No 3rd party codes, libraries are used (Therefore No lib folder created) 
+* Very few 3rd party codes, libraries are used (Therefore No lib folder created) 
 
 <p align="center">
-  <img src = "https://i.imgur.com/qfyrUtW.png" width=390>
+  <img src = "https://i.imgur.com/tEF89UF.png" width=170>
 </p>
 
 ## Setup Process
 
 - Clone or download the repo
-- Turn on your xampp server
-- create a new database and save it's credentials in `core/config.php`.
+- Open your android studio
+- compile the apk and run on your device.
 
-```
-$dbhost = 'localhost';
-$dbuser = 'database_user';
-$dbpass = 'Your_pass';
-$dbname = 'database_name';
-```
-- setup cron on `cron.php` file on every 5 minutes.
-- add your server email address in `core/config.php` file.
-```
-$from = "mail@yourdomain.com";
-```
 **Now This Project will start working**
 
-## Unsubscribe any time
-You can unsubscribe from the XKCD Comics server anytime you want with just a single click. 
+## Add all in once.
+You can add amount on all at once.
 
 <p align="center">
   <img src = "https://i.imgur.com/4xdlzdj.png" width=390>
