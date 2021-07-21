@@ -20,9 +20,17 @@ This android and ios app mainly developed for college students in order to save 
 
 **Available On Android & IOS.**
 
-<p align="center">
-  <img src = "https://i.imgur.com/TpMxeRB.png" width=250>
-</p>
+<div class="row" align="center">
+  <div class="column">
+    <img src="https://i.imgur.com/TpMxeRB.png" alt="Snow" style="width:250px">
+  </div>
+  <div class="column">
+    <img src="img_forest.jpg" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
+  </div>
+</div>
 
 ## Features
 
