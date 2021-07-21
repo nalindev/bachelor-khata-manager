@@ -21,13 +21,13 @@ This android and ios app mainly developed for college students in order to save 
 **Available On Android & IOS.**
 
 <div class="row" align="center">
-  <div class="column">
+  <div class="column" style="display: inline-block;">
     <img src="https://i.imgur.com/TpMxeRB.png" width="40%">
   </div>
-  <div class="column">
+  <div class="column" style="display: inline-block;">
     <img src="https://i.imgur.com/TpMxeRB.png" width="40%">
   </div>
-  <div class="column">
+  <div class="column" style="display: inline-block;">
     <img src="https://i.imgur.com/TpMxeRB.png" width="40%">
   </div>
 </div>
