@@ -14,14 +14,14 @@
 
 This android and ios app mainly developed for college students in order to save there time.
 
-> **Important Note** :  NVery few 3rd party codes, libraries are used in this project. Hence, this code is lightweight and easy to set up and understand. I try to write my code as clean as possible. Also, it doesn't have any security issues.
+> **Important Note** :  Very few 3rd party codes, libraries are used in this project. Hence, this code is lightweight and easy to set up and understand. I try to write my code as clean as possible. Also, it doesn't have any security issues.
 
 > **This Project Follows Flutter coding standards**
 
 **Available On Android & IOS.**
 
 <p align="center">
-  <img src = "https://i.imgur.com/gEaXBnE.png" width=390>
+  <img src = "https://i.imgur.com/TpMxeRB.png" width=390>
 </p>
 
 ## Features
