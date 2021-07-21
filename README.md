@@ -20,10 +20,10 @@ This android and ios app mainly developed for college students in order to save 
 
 **Available On Android & IOS.**
 
-<p float="left">
-  <img src="https://i.imgur.com/TpMxeRB.png" width="100" />
-  <img src="https://i.imgur.com/TpMxeRB.png" width="100" /> 
-  <img src="https://i.imgur.com/TpMxeRB.png" width="100" />
+<p align="center">
+  <img src="https://i.imgur.com/TpMxeRB.png" width="150" />
+  <img src="https://i.imgur.com/TpMxeRB.png" width="150" /> 
+  <img src="https://i.imgur.com/TpMxeRB.png" width="150" />
 </p>
 
 
